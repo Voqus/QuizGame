@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+	<question id="1">
+		<questionName>Let the flowers …………………….
+		</questionName>
+		<answer1>not plucked</answer1>
+		<answer1>not be plucked</answer1>
+		<answer1>not be plucking</answer1>
+		<answer1>not been plucked</answer1>
+		<points>100</points>
+		<correct>not be plucked</correct>
+	</question>
+	<question id="2">
+		<questionName>You ………………… to lend me your book.
+		</questionName>
+		<answer2>are requesting</answer2>
+		<answer2>requested</answer2>
+		<answer2>are requested</answer2>
+		<answer2>have requested</answer2>
+		<points>100</points>
+		<correct>are requested</correct>
+	</question>
+	<question id="3">
+		<questionName>When you phoned I ………………… in the garden.
+		</questionName>
+		<answer3>am working</answer3>
+		<answer3>was working</answer3>
+		<answer3>have been working</answer3>
+		<answer3>will be working</answer3>
+		<points>100</points>
+		<correct>was working</correct>
+	</question>
+	<question id="4">
+		<questionName>I ……………… my homework. What shall I do now?
+		</questionName>
+		<answer4>did</answer4>
+		<answer4>have done</answer4>
+		<answer4>will do</answer4>
+		<answer4>do</answer4>
+		<points>100</points>
+		<correct>have done</correct>
+	</question>
+	<question id="5">
+		<questionName>She ……………… as an expert.
+		</questionName>
+		<answer5>regarded</answer5>
+		<answer5>was regarded</answer5>
+		<answer5>will regard</answer5>
+		<answer5>is regarding</answer5>
+		<points>100</points>
+		<correct>was regarded</correct>
+	</question>
+	<question id="6">
+		<questionName>I think my ankle ……………….
+		</questionName>
+		<answer6>broke</answer6>
+		<answer6>is broken</answer6>
+		<answer6>has been broken</answer6>
+		<answer6>Either ‘is broken’ or ‘has been broken’</answer6>
+		<points>100</points>
+		<correct>Either ‘is broken’ or ‘has been broken’</correct>
+	</question>
+	<question id="7">
+		<questionName>She ……………… all her childhood in France.
+		</questionName>
+		<answer7>spend</answer7>
+		<answer7>spends</answer7>
+		<answer7>spent</answer7>
+		<answer7>has spent</answer7>
+		<points>100</points>
+		<correct>spent</correct>
+	</question>
+	<question id="8">
+		<questionName>I ……… Peter yesterday morning and he told me that he was leaving for his native place.
+		</questionName>
+		<answer8>have seen</answer8>
+		<answer8>had seen</answer8>
+		<answer8>saw</answer8>
+		<answer8>seen</answer8>
+		<points>100</points>
+		<correct>saw</correct>
+	</question>
+	<question id="9">
+		<questionName>What ………………… at 4 o’clock yesterday evening?
+		</questionName>
+		<answer9>were you doing</answer9>
+		<answer9>are you doing</answer9>
+		<answer9>will you be doing</answer9>
+		<answer9>did you do</answer9>
+		<points>100</points>
+		<correct>were you doing</correct>
+	</question>
+	<question id="10">
+		<questionName>The phone rang while I ………………… dinner.
+		</questionName>
+		<answer10>had</answer10>
+		<answer10>am having</answer10>
+		<answer10>was having</answer10>
+		<answer10>have been having</answer10>
+		<points>100</points>
+		<correct>was having</correct>
+	</question>
+	<question id="11">
+		<questionName>She ………………… in Switzerland for ten years when she was a child.
+		</questionName>
+		<answer11>lived</answer11>
+		<answer11>had lived</answer11>
+		<answer11>has lived</answer11>
+		<answer11>was living</answer11>
+		<points>100</points>
+		<correct>lived</correct>
+	</question>
+	<question id="12">
+		<questionName>When we were kids we …………………… our own amusements.
+		</questionName>
+		<answer12>were making</answer12>
+		<answer12>made</answer12>
+		<answer12>had made</answer12>
+		<answer12>are making</answer12>
+		<points>100</points>
+		<correct>made</correct>
+	</question>
+	<question id="13">
+		<questionName>I am not worried about the exam. I ………………… enough to pass.
+		</questionName>
+		<answer13>learnt</answer13>
+		<answer13>have learnt</answer13>
+		<answer13>learn</answer13>
+		<answer13>had learnt</answer13>
+		<points>100</points>
+		<correct>have learnt</correct>
+	</question>
+	<question id="14">
+		<questionName>I ……………………… the book for several weeks now.
+		</questionName>
+		<answer14>have been reading</answer14>
+		<answer14>am reading</answer14>
+		<answer14>was reading</answer14>
+		<answer14>read</answer14>
+		<points>100</points>
+		<correct>have been reading</correct>
+	</question>
+	<question id="15">
+		<questionName>This is the first time that I ………………… her act.
+		</questionName>
+		<answer15>see</answer15>
+		<answer15>saw</answer15>
+		<answer15>have seen</answer15>
+		<answer15>had seen</answer15>
+		<points>100</points>
+		<correct>have seen</correct>
+	</question>
+
+</quiz>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+	<question id="1">
+		<questionName>Select the best synonym for surreptitious:
+		</questionName>
+		<answer1>fast</answer1>
+		<answer1>thirsty</answer1>
+		<answer1>broken</answer1>
+		<answer1>secret</answer1>
+		<points>100</points>
+		<correct>secret</correct>
+	</question>
+	<question id="2">
+		<questionName>Select the best synonym for rip:</questionName>
+		<answer2>climb</answer2>
+		<answer2>turn on</answer2>
+		<answer2>collapse</answer2>
+		<answer2>tear up</answer2>
+		<points>100</points>
+		<correct>tear up</correct>
+	</question>
+	<question id="3">
+		<questionName>Select the best synonym for conduct:</questionName>
+		<answer3>wait</answer3>
+		<answer3>perform</answer3>
+		<answer3>speak</answer3>
+		<answer3>cook</answer3>
+		<points>100</points>
+		<correct>perform</correct>
+	</question>
+	<question id="4">
+		<questionName>Select the best synonym for normally:</questionName>
+		<answer4>finally</answer4>
+		<answer4>well</answer4>
+		<answer4>usually</answer4>
+		<answer4>later</answer4>
+		<points>100</points>
+		<correct>usually</correct>
+	</question>
+	<question id="5">
+		<questionName>Select the best synonym for encounter:</questionName>
+		<answer5>meet</answer5>
+		<answer5>entertain</answer5>
+		<answer5>order</answer5>
+		<answer5>believe</answer5>
+		<points>100</points>
+		<correct>meet</correct>
+	</question>
+	<question id="6">
+		<questionName>Select the best synonym for glimpse:</questionName>
+		<answer6>brief look</answer6>
+		<answer6>bright light</answer6>
+		<answer6>hard question</answer6>
+		<answer6>sharp pain</answer6>
+		<points>100</points>
+		<correct>brief look</correct>
+	</question>
+	<question id="7">
+		<questionName>Select the best synonym for quest:</questionName>
+		<answer7>friend</answer7>
+		<answer7>journey</answer7>
+		<answer7>quiet place</answer7>
+		<answer7>master</answer7>
+		<points>100</points>
+		<correct>journey</correct>
+	</question>
+	<question id="8">
+		<questionName>Select the best synonym for procrastinate:</questionName>
+		<answer8>delay</answer8>
+		<answer8>argue</answer8>
+		<answer8>lie</answer8>
+		<answer8>teach</answer8>
+		<points>100</points>
+		<correct>delay</correct>
+	</question>
+	<question id="9">
+		<questionName>Select the best synonym for oral:</questionName>
+		<answer9>alert</answer9>
+		<answer9>poor</answer9>
+		<answer9>spoken</answer9>
+		<answer9>eager</answer9>
+		<points>100</points>
+		<correct>spoken</correct>
+	</question>
+	<question id="10">
+		<questionName>Select the best synonym for wander:</questionName>
+		<answer10>swing</answer10>
+		<answer10>hide under</answer10>
+		<answer10>destroy</answer10>
+		<answer10>walk around</answer10>
+		<points>100</points>
+		<correct>walk around</correct>
+	</question>
+	<question id="11">
+		<questionName>Select the best synonym for wage:</questionName>
+		<answer11>officer</answer11>
+		<answer11>doubt</answer11>
+		<answer11>salary</answer11>
+		<answer11>conversation</answer11>
+		<points>100</points>
+		<correct>salary</correct>
+	</question>
+	<question id="12">
+		<questionName>Select the best synonym for secret:</questionName>
+		<answer12>hidden</answer12>
+		<answer12>safe</answer12>
+		<answer12>modern</answer12>
+		<answer12>calm</answer12>
+		<points>100</points>
+		<correct>hidden</correct>
+	</question>
+	<question id="13">
+		<questionName>Select the best synonym for pause:</questionName>
+		<answer13>paint</answer13>
+		<answer13>wait a moment</answer13>
+		<answer13>search</answer13>
+		<answer13>walk towards</answer13>
+		<points>100</points>
+		<correct>wait a moment</correct>
+	</question>
+	<question id="14">
+		<questionName>Select the best synonym for specialty:</questionName>
+		<answer14>skill</answer14>
+		<answer14>process</answer14>
+		<answer14>alteration</answer14>
+		<answer14>fancy party</answer14>
+		<points>100</points>
+		<correct>skill</correct>
+	</question>
+	<question id="15">
+		<questionName>Select the best synonym for lie:</questionName>
+		<answer15>clothing</answer15>
+		<answer15>flying insect</answer15>
+		<answer15>untrue statement</answer15>
+		<answer15>cleaning liquid</answer15>
+		<points>100</points>
+		<correct>untrue statement</correct>
+	</question>
+</quiz>

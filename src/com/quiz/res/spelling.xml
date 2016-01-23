@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+	<question id="1">
+		<questionName>The United Nations Organization was …………………… in 1945
+			with the objective of averting another major world war.
+		</questionName>
+		<answer1>fount</answer1>
+		<answer1>found</answer1>
+		<answer1>founded</answer1>
+		<points>100</points>
+		<correct>founded</correct>
+	</question>
+	<question id="2">
+		<questionName>Have you …………………… the answer?
+		</questionName>
+		<answer2>fount</answer2>
+		<answer2>found</answer2>
+		<answer2>founded</answer2>
+		<points>100</points>
+		<correct>found</correct>
+	</question>
+	<question id="3">
+		<questionName>Every nation has …………………… customs and traditions.
+		</questionName>
+		<answer3>its</answer3>
+		<answer3>it's</answer3>
+		<answer3>its'</answer3>
+		<points>100</points>
+		<correct>its</correct>
+	</question>
+	<question id="4">
+		<questionName>Have you seen my key? ……………… disappeared.
+		</questionName>
+		<answer4>Its</answer4>
+		<answer4>It's</answer4>
+		<answer4>Its'</answer4>
+		<points>100</points>
+		<correct>It's</correct>
+	</question>
+	<question id="5">
+		<questionName>……………… about time you washed that coat.
+		</questionName>
+		<answer5>Its</answer5>
+		<answer5>It's</answer5>
+		<answer5>Its'</answer5>
+		<points>100</points>
+		<correct>It's</correct>
+	</question>
+	<question id="6">
+		<questionName>………………… might be snacks if you wait a bit.
+		</questionName>
+		<answer6>There</answer6>
+		<answer6>Their</answer6>
+		<answer6>Theirs</answer6>
+		<points>100</points>
+		<correct>There</correct>
+	</question>
+	<question id="7">
+		<questionName>‘Where will he sleep?’ ‘Well, ………………… one bedroom.’
+		</questionName>
+		<answer7>theirs</answer7>
+		<answer7>there</answer7>
+		<answer7>there's</answer7>
+		<answer7>their</answer7>
+		<points>100</points>
+		<correct>there's</correct>
+	</question>
+	<question id="8">
+		<questionName>Have you ever visited …………………… place?
+		</questionName>
+		<answer8>their</answer8>
+		<answer8>theirs</answer8>
+		<answer8>there</answer8>
+		<answer8>there's</answer8>
+		<points>100</points>
+		<correct>their</correct>
+	</question>
+	<question id="9">
+		<questionName>I have brought my piano. Where is ……………………?
+		</questionName>
+		<answer9>yours'</answer9>
+		<answer9>yours</answer9>
+		<answer9>your's</answer9>
+		<answer9>your</answer9>
+		<points>100</points>
+		<correct>yours</correct>
+	</question>
+	<question id="10">
+		<questionName>…………………… the most wonderful person I have ever met.
+		</questionName>
+		<answer10>You're</answer10>
+		<answer10>Your</answer10>
+		<answer10>U r</answer10>
+		<points>100</points>
+		<correct>You're</correct>
+	</question>
+	<question id="11">
+		<questionName>Can you lend me ………………… pen?
+		</questionName>
+		<answer11>yours</answer11>
+		<answer11>your</answer11>
+		<answer11>you're</answer11>
+		<points>100</points>
+		<correct>your</correct>
+	</question>
+	<question id="12">
+		<questionName>………………… no use trying to complain.
+		</questionName>
+		<answer12>There's</answer12>
+		<answer12>There</answer12>
+		<answer12>Theirs</answer12>
+		<answer12>Their</answer12>
+		<points>100</points>
+		<correct>There's</correct>
+	</question>
+	<question id="13">
+		<questionName>I don’t know …………………… I will have time.
+		</questionName>
+		<answer13>weather</answer13>
+		<answer13>whether</answer13>
+		<answer13>whither</answer13>
+		<points>100</points>
+		<correct>whether</correct>
+	</question>
+	<question id="14">
+		<questionName>……………… is that car?
+		</questionName>
+		<answer14>Who's</answer14>
+		<answer14>Whose</answer14>
+		<answer14>Hose</answer14>
+		<points>100</points>
+		<correct>Whose</correct>
+	</question>
+	<question id="15">
+		<questionName>I’ve got a cousin ………………… never been to a concert.
+		</questionName>
+		<answer15>whose</answer15>
+		<answer15>who's</answer15>
+		<points>100</points>
+		<correct>who's</correct>
+	</question>
+
+</quiz>
